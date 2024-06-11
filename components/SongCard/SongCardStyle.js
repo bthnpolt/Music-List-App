@@ -1,0 +1,46 @@
+import { StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+    container:{
+        padding:10,
+        flexDirection:'row'
+    },
+    image:{
+        height:100,
+        width:100,
+        borderRadius:50
+    },
+    title:{
+        fontWeight:'bold',
+        fontSize:27
+    },
+    artist:{
+        fontWeight:'bold'
+    },
+    year:{
+        marginLeft:10,
+        color:'gray',
+        fontWeight:'bold'
+    },
+    inner_container:{
+        flex:1,
+        padding:10,
+        justifyContent:'center'
+    },
+    info_container:{
+        flex:1,
+        flexDirection:'row',
+    },
+    soldOut_container:{
+        borderWidth:1,
+        borderColor:'red',
+        borderRadius:5,
+        padding:5
+    },
+    soldOut:{
+        color:'red'
+    },
+    body:{
+        flexDirection:'row'
+    }
+})

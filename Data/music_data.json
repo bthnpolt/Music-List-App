@@ -1,0 +1,83 @@
+[
+    {
+        "id":"0",
+        "title":"Apocalypse",
+        "artist":"Cigarettes After Sex",
+        "album":"Bp",
+        "year":2017,
+        "isSoldOut":true,
+        "imageUrl":"https://i1.sndcdn.com/artworks-bXPPWOqEDj7nyuoQ-nq8eLQ-t500x500.jpg"
+    },
+    {
+        "id":"1",
+        "title":"K.",
+        "artist":"Cigarettes After Sex",
+        "album":"Bp",
+        "year":2015,
+        "isSoldOut":true,
+        "imageUrl":"https://source.boomplaymusic.com/group10/M00/09/01/ad6eeaa434c14ad283ab0c1b4c304131_464_464.webp"
+    },
+    {
+        "id":"2",
+        "title":"Sweet",
+        "artist":"Cigarettes After Sex",
+        "album":"Bp",
+        "year":2017,
+        "isSoldOut":false,
+        "imageUrl":"https://i1.sndcdn.com/artworks-bXPPWOqEDj7nyuoQ-nq8eLQ-t500x500.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Sunsetz",
+        "artist":"Cigarettes After Sex",
+        "album":"Bp",
+        "year":2020,
+        "isSoldOut":true,
+        "imageUrl":"https://i1.sndcdn.com/artworks-bXPPWOqEDj7nyuoQ-nq8eLQ-t500x500.jpg"
+    },
+    {
+        "id":"4",
+        "title":"Cry",
+        "artist":"Cigarettes After Sex",
+        "album":"Bp",
+        "year":2014,
+        "isSoldOut":false,
+        "imageUrl":"https://i1.sndcdn.com/artworks-bXPPWOqEDj7nyuoQ-nq8eLQ-t500x500.jpg"
+    },
+    {
+        "id":"5",
+        "title":"King Nothing",
+        "artist":"Metallica",
+        "album":"Load",
+        "year":1996,
+        "isSoldOut":true,
+        "imageUrl":"https://i.pinimg.com/564x/80/54/61/805461d0488e77e028b3f59a881b9aa8.jpg"
+    },
+    {
+        "id":"6",
+        "title":"Siyah (Esved)",
+        "artist":"Neyse",
+        "album":"Neyse",
+        "year":2011,
+        "isSoldOut":true,
+        "imageUrl":"https://i.scdn.co/image/ab67616d0000b27363a94f6459d13c78bda9c872"
+    },
+    {
+        "id":"7",
+        "title":"Angelica",
+        "artist":"Anathema",
+        "album":"Eternity",
+        "year":1996,
+        "isSoldOut":true,
+        "imageUrl":"https://i1.sndcdn.com/artworks-000154519803-vaxmfg-t500x500.jpg"
+    },
+    {
+        "id":"8",
+        "title":"Epitaph",
+        "artist":"King Crimson",
+        "album":"In The Courth Of The Crimson King",
+        "year":"1969",
+        "isSoldOut":false,
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/en/c/cd/21st_Century_Schizoid_Man.jpg"
+    }
+]
